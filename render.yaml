@@ -1,7 +1,7 @@
 databases:
-  - name: mysite
-    databaseName: mysite
-    user: mysite
+  - name: django-adv
+    databaseName: django-adv
+    user: django-adv
 
 services:
   - type: web
